@@ -1,0 +1,4 @@
+DELETE FROM employees;
+DROP TABLE employees;
+
+Hello, you are here!
