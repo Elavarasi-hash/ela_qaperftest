@@ -1,1 +1,1 @@
-SELECT * FROM employees WHERE employee_id = 101;
+SELECT * FROM employees;
