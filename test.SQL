@@ -1,1 +1,1 @@
-SELECT * FROM employees;
+INSERT INTO employees VALUES (1, 'John');
