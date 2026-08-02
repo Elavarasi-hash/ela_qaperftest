@@ -1,1 +1,1 @@
-UPDATE employees SET salary = 50000 WHERE id = 1;
+SELECT * FROM employees;
