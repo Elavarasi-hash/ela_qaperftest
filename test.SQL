@@ -1,1 +1,2 @@
-SELECT * FROM employees;
+SELECT * FROM employees -- fetch all employees
+WHERE department = 'HR';
