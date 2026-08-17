@@ -1,1 +1,1 @@
-SELECT * FROM employees WHERE department = 'Engineering';
+INSERT INTO employees VALUES (1, 'John');
